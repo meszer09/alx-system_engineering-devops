@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find . chmod -R 755
+sudo chmod -R -f 755
